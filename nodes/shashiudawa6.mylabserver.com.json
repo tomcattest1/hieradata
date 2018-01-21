@@ -1,0 +1,5 @@
+{
+ "profile::tomcat::deploy_url": "https://9-118298370-gh.circle-artifacts.com/0/tmp/circle-artifacts.jxRQwEe/sysfoo.war",
+ "profile::tomcat::checksum_value": "de01db71b4e67f17481665dda4b802b7",
+ "tomcat::port": 8080
+}
